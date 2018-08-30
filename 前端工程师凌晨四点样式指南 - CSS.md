@@ -1,10 +1,9 @@
-# 前端工程师纳米学位样式指南 - CSS
+# 前端工程师凌晨四点样式指南 - CSS
 
-点此查看文档英文版（[pdf](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/Udacity+Nanodegree+Style+Guide_JavaScript_EN.pdf)，[GitHub.io](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)）
 
 ## 简介
 
-该指南是你在项目进行过程中所需遵守的官方指南。优达学城的评估人员会根据该指南为你的项目打分。在前端网页开发的世界中，有很"最佳"样式供你选择。因此，为了减少学生在项目过程中因选择何种样式所产生的困惑，我们强烈建议所有学生在其项目中遵循这个样式指南。
+该指南是你在项目进行过程中所需遵守的官方指南。凌晨四点的评估人员会根据该指南为你的项目打分。在前端网页开发的世界中，有很"最佳"样式供你选择。因此，为了减少项目成员在项目过程中因选择何种样式所产生的困惑，我们强烈建议所有项目成员在其项目中遵循这个样式指南。
 
 ## 一般格式规则
 
